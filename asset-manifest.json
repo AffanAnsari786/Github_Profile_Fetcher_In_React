@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Github_Profile_Fetcher_In_React/static/css/main.475504ad.css",
+    "main.css": "/Github_Profile_Fetcher_In_React/static/css/main.a19b72a6.css",
     "main.js": "/Github_Profile_Fetcher_In_React/static/js/main.ccceae8f.js",
     "static/js/787.82157d89.chunk.js": "/Github_Profile_Fetcher_In_React/static/js/787.82157d89.chunk.js",
     "static/media/logo.svg": "/Github_Profile_Fetcher_In_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Github_Profile_Fetcher_In_React/index.html",
-    "main.475504ad.css.map": "/Github_Profile_Fetcher_In_React/static/css/main.475504ad.css.map",
+    "main.a19b72a6.css.map": "/Github_Profile_Fetcher_In_React/static/css/main.a19b72a6.css.map",
     "main.ccceae8f.js.map": "/Github_Profile_Fetcher_In_React/static/js/main.ccceae8f.js.map",
     "787.82157d89.chunk.js.map": "/Github_Profile_Fetcher_In_React/static/js/787.82157d89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.475504ad.css",
+    "static/css/main.a19b72a6.css",
     "static/js/main.ccceae8f.js"
   ]
 }
