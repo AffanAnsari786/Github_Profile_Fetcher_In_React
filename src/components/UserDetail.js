@@ -25,7 +25,7 @@ function UserDetail() {
 
   return (
     <>
-      <div className='searcBar'>
+      <div className='searchBar'>
         <div className="title">
           <h1>Search Github Profile</h1>
         </div>
