@@ -1,0 +1,101 @@
+@media screen and (max-width: 600px) {
+    .title {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+    .title h1 {
+        font-size: 26px;
+    }
+    .card{
+        height: 190px;
+        width: 340px;
+    }
+    .card:hover{
+        height: 370px;
+        width: 350px;
+    }
+    .card .imgBox{
+        height: 140px;
+        width: 140px;
+    }
+    .card:hover .imgBox{
+        width: 170px;
+        height: 170px;
+    }
+    .content .detail h2{
+        font-size: 1.25em;
+    }
+    .content .detail h2 span{
+        font-size: 0.75em;
+    }
+    a{
+        padding: 7px 20px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .title {
+        margin-top: 15px;
+        margin-bottom: 23px;
+      }
+    .title h1 {
+        font-size: 22px;
+    }
+    .card{
+        height: 170px;
+        width: 320px;
+    }
+    .card:hover{
+        height: 350px;
+        width: 320px;
+    }
+    .card .imgBox{
+        height: 130px;
+        width: 130px;
+    }
+    .card:hover .imgBox{
+        width: 150px;
+        height: 150px;
+    }
+    a{
+        padding: 6px 17px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .title {
+        margin-top: 15px;
+        margin-bottom: 23px;
+      }
+    .title h1 {
+        font-size: 22px;
+    }
+    .search input, .search button{
+        font-size: 14px;
+    }
+    .card{
+        height: 150px;
+        width: 280px;
+    }
+    .card:hover{
+        height: 300px;
+        width: 280px;
+    }
+    .card .imgBox{
+        height: 100px;
+        width: 100px;
+    }
+    .card:hover .imgBox{
+        width: 120px;
+        height: 120px;
+    }
+    .content .detail{
+        padding: 0px 20px 20px 20px;
+    }
+    .content .detail h2{
+        font-size: 1.15em
+    }
+    a{
+        padding: 5px 13px;
+    }
+}
