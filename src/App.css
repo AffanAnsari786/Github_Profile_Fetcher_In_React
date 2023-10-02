@@ -17,8 +17,8 @@ body {
     justify-content: center;
     min-height: 100vh;
     background: linear-gradient(45deg, #fbda61, #ff5acd);
-    margin-left: 30px;
-    padding-left: 10px;
+    margin-left: 15px;
+    padding-left: 5px;
 }
 
 .searchBar {
